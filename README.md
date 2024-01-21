@@ -8,4 +8,12 @@ Para usar este tipo de css usamos a sintaxe \<elemento syle="propriedades css: v
 
 ## Aula 2
 Nesta aula aprendi a estilização viza css interno (ou incorporado) usando a tag style, e que o css inline tem prioridade sobre ela caso utilizemos os dois juntos.
-Também que neste tipo de css as declarações não se aplicam as outras páignas do projeto
+Também que neste tipo de css as declarações não se aplicam as outras páignas do projeto.
+
+## Aula 3
+Aprendi a prioridade de aplicação das propriedades:
+Aprendi também o css externo que é a forma mais correta de usar o css, e usando este conseguimos com que as propriedades sejam re-utilizaveis em outra páginas.
+* em primeiro lugar vem o css inline
+* em segundo lugar o css interno
+* em terceiro vem o css externo
+Devemos ter muita atenção e organição ao escrever o css para não problemas com propriedades conflitantes.

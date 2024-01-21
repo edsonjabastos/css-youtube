@@ -1,0 +1,17 @@
+body {
+    background: yellow;
+}
+
+h1 {
+    color: royalblue;
+    font-size: 88px;
+}
+
+h2 {
+    font-size: 66px;
+    background: gray;
+}
+
+h3 {
+    font-size: 44px;
+}
