@@ -17,3 +17,11 @@ Aprendi também o css externo que é a forma mais correta de usar o css, e usand
 * em segundo lugar o css interno
 * em terceiro vem o css externo
 Devemos ter muita atenção e organição ao escrever o css para não problemas com propriedades conflitantes.
+
+## Aula 4
+Aprendi nesta aula sobre os seletores de css para seletores de classe usamos .nome-da-classe e para seletores de  identificadores usamos #id-do-seletor para seletores de tags como já tinhamos visto é só utilizar o nome da tag e para não repetirmos propriedades parecida para diferentes seletores podemos utilizar seletor1, seletor2 { propriedades que ambos seletores usam }
+Classes e identificadores não podem começar com numeros.
+* nome-da-tag { para selecionar tag }
+* .nome-da-classe { para selecionar classe }
+* \#nome-do-id { para selecionar id }
+id geralmente é usado para itens unicos

@@ -1,17 +1,25 @@
 body {
+    background: #ccc;
+}
+
+p {
+    /* color: red; */
+    font-size: 36px;
+}
+
+.vermelho {
+    color: red;
+}
+
+.center {
+    text-align: center;
+}
+
+.fonte-30 {
+    font-size: 30px;
+}
+
+#teste {
+    color: blue;
     background: yellow;
-}
-
-h1 {
-    color: royalblue;
-    font-size: 88px;
-}
-
-h2 {
-    font-size: 66px;
-    background: gray;
-}
-
-h3 {
-    font-size: 44px;
 }
