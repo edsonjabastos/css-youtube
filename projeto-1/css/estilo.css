@@ -1,3 +1,7 @@
+body {
+  background-color: #a5965ca3;
+}
+
 h1 {
   color: #a81b1b;
 }
@@ -8,4 +12,18 @@ p {
 
 a {
   color: rgb(255, 100, 2);
+}
+
+div > p {
+  color: black;
+}
+
+.example-background-with-image {
+  height: 600px;
+  /* background-color: green; */
+  background-image: url("../img/juju.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background: green url("../img/juju.jpg") no-repeat center / cover; /* shorthand */
 }
