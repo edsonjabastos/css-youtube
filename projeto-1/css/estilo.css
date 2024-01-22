@@ -1,25 +1,11 @@
-body {
-    background: #ccc;
+h1 {
+  color: #a81b1b;
 }
 
 p {
-    /* color: red; */
-    font-size: 36px;
+  color: chocolate;
 }
 
-.vermelho {
-    color: red;
-}
-
-.center {
-    text-align: center;
-}
-
-.fonte-30 {
-    font-size: 30px;
-}
-
-#teste {
-    color: blue;
-    background: yellow;
+a {
+  color: rgb(255, 100, 2);
 }
