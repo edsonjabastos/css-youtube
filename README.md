@@ -43,9 +43,15 @@ Na aula 5 aprendi sobre a propriedade color que pode ser usada de três formas:
 - rgb, exemplo: rgb(255,0,2)
 
 ## Aula 6
+
 Nesta Aula aprendi sobre a propriedade background e umas formas de usa-la incluindo a shorthand.
+
 - background-image: para imagens
 - background-size: define otamanho das imagens de fundo
 - background-color: para cor
 - background-repeat: especifica como as imagens de plano de fundo serão dispostas lado a lado depois de dimensionadas e posicionadas.
 - background-position: especifica a posição inicial da(s) imagem(s) de fundo (após qualquer redimensionamento) dentro da área de posicionamento de fundo correspondente.
+
+## Aula 7
+
+Nesta aula aprendi sobre a propriedade border, aprendi que podemos usar uma borda por completo ou em uma direção individual e os varios tipos de bordas disponíveis
