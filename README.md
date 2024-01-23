@@ -60,3 +60,7 @@ Nesta aula aprendi sobre a propriedade border, aprendi que podemos usar uma bord
 ## Aula 8
 
 Nesta aula aprendi sobrea propriedade margin, da qual promove o afastamento direcional dos demais elementos. Podemos usa-la nas 4 direções e também o shorthand passando o valor devido para cada direção.
+
+## Aula 9
+
+Nesta Aula aprendi sobre as propriedade width and height, largura e altura respectivamente que estabelecem o tamanho destas dimensões nas tags em que são aplicadas e também sobre max-width e max-height que estabelecem a largura e altura máxima de um elemento.
