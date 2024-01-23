@@ -55,3 +55,8 @@ Nesta Aula aprendi sobre a propriedade background e umas formas de usa-la inclui
 ## Aula 7
 
 Nesta aula aprendi sobre a propriedade border, aprendi que podemos usar uma borda por completo ou em uma direção individual e os varios tipos de bordas disponíveis
+
+
+## Aula 8
+
+Nesta aula aprendi sobrea propriedade margin, da qual promove o afastamento direcional dos demais elementos. Podemos usa-la nas 4 direções e também o shorthand passando o valor devido para cada direção.
