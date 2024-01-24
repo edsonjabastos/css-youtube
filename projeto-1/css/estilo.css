@@ -1,3 +1,12 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Rubik+Burned&display=swap'); */
+@font-face {
+  font-family: "Rubik Burned";
+  src: url("RubikBurned-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Press Start 2P";
+  src: url("PressStart2P-Regular.ttf") format("truetype");
+}
 body {
   background-color: #a5965ca3;
 }
@@ -27,6 +36,7 @@ h1 {
   margin-bottom: 150px; */
   padding: 15px;
   /* margin: 150px 50px 150px 50px; */
+  font-family: "Press Start 2P", system-ui;
 }
 
 p {
@@ -49,6 +59,10 @@ p {
   word-spacing: 10px;
   line-height: 1.5;
   text-indent: 50px;
+  font-family: "Rubik Burned", system-ui;
+  font-style: italic;
+  font-weight: 900;
+  /* font-size: 1.5rem; */
 }
 
 h2 {
@@ -81,7 +95,6 @@ div {
   border-right: 6px ridge #a242a0;
   border-radius: 15px;
   padding: 15px;
-
 }
 
 .button {
@@ -103,7 +116,6 @@ div {
   color: white;
 }
 
-  
 .test {
   width: 100px;
   height: 100px;

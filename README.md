@@ -71,3 +71,20 @@ Nesta Aula aprendi sobre as propriedade width and height, largura e altura respe
 
 ## Aula 11
 Nessa aula aprendi tantas propriedades de texto que demoraria muito tempo para descrever, mas as principais se tratam de alinhamento de texto, identação, decoração, transformações, espaçamento (entre letra, palavras e linhas), sombreamento e etc...
+
+## Aula 12
+
+As propriedades CSS relacionadas à fonte permitem controlar o estilo, tamanho, cor e outras características do texto em um elemento HTML. Algumas das principais propriedades incluem:
+
+- font-family: define a família de fontes a ser usada, como Arial, Times New Roman, etc.
+- font-size: especifica o tamanho da fonte, em pixels, em pontos ou em porcentagem.
+- font-weight: define a espessura da fonte, como normal, bold, etc.
+- font-style: especifica o estilo da fonte, como normal, italic, etc.
+- text-decoration: controla a decoração do texto, como underline, line-through, etc.
+- text-align: alinha o texto horizontalmente, como left, center, right, etc.
+- line-height: define a altura da linha, controlando o espaçamento entre as linhas de texto.
+- letter-spacing: ajusta o espaçamento entre as letras do texto.
+- word-spacing: controla o espaçamento entre as palavras do texto.
+- text-transform: transforma o texto em maiúsculas, minúsculas ou em outros formatos.
+- text-shadow: adiciona uma sombra ao texto, permitindo criar efeitos visuais.
+- Essas propriedades permitem personalizar a aparência do texto em um site, tornando-o mais legível e esteticamente agradável.
