@@ -26,13 +26,29 @@ h1 {
   margin-right: 50px;
   margin-bottom: 150px; */
   padding: 15px;
-  margin: 150px 50px 150px 50px;
+  /* margin: 150px 50px 150px 50px; */
 }
 
 p {
-  color: chocolate;
-  margin-bottom: 40px;
+  color: black;
+  text-align: justify;
+  /* direction: rtl;
+  unicode-bidi: bidi-override; */
+  margin: 30px;
+  /* margin-bottom: 40px; */
   /* padding: 15px 50px 15px 50px; */
+  /* text-decoration: wavy underline; */
+  /* text-decoration: wavy line-through; */
+  /* text-decoration: dashed overline; */
+  /* text-decoration: dotted underline; */
+  /* text-shadow: gray 2px 2px 2px; */
+  text-shadow: gray 2px 2px 2px, red 4px 4px 4px;
+  text-transform: uppercase;
+  /* text-size-adjust: 100%; */
+  letter-spacing: 3px;
+  word-spacing: 10px;
+  line-height: 1.5;
+  text-indent: 50px;
 }
 
 h2 {
@@ -91,5 +107,4 @@ div {
 .test {
   width: 100px;
   height: 100px;
-
 }

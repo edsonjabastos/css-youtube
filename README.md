@@ -63,4 +63,11 @@ Nesta aula aprendi sobrea propriedade margin, da qual promove o afastamento dire
 
 ## Aula 9
 
+As propriedades CSS relacionadas ao padding são utilizadas para definir o espaçamento interno de um elemento. O padding pode ser aplicado nas quatro direções (topo, direita, baixo e esquerda) ou de forma individual. É possível utilizar valores absolutos, como pixels, ou valores relativos, como porcentagem, para definir o tamanho do padding. O padding também pode ser definido de forma abreviada, especificando os valores para cada direção em uma única propriedade. O padding é útil para criar espaçamento entre o conteúdo de um elemento e suas bordas, proporcionando uma melhor organização visual.
+
+## Aula 10
+
 Nesta Aula aprendi sobre as propriedade width and height, largura e altura respectivamente que estabelecem o tamanho destas dimensões nas tags em que são aplicadas e também sobre max-width e max-height que estabelecem a largura e altura máxima de um elemento.
+
+## Aula 11
+Nessa aula aprendi tantas propriedades de texto que demoraria muito tempo para descrever, mas as principais se tratam de alinhamento de texto, identação, decoração, transformações, espaçamento (entre letra, palavras e linhas), sombreamento e etc...
